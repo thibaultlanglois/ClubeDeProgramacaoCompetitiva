@@ -90,3 +90,16 @@ user	0m59.750s
 sys	0m0.962s
 ```
 
+## Miguel Mendes
+- Solution in Java
+- Accepted by online judge
+- This solution does not use Dynamic Programming.
+
+Test with:
+```
+> test.sh 2
+> test.sh 5
+```
+
+Fails on input 5
+Stack overflow.
