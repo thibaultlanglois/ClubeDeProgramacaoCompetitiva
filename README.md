@@ -8,8 +8,19 @@ Each problem has a dedicated sub folder.
 ## Problems and solutions:
 
 ### UVa 100
+- Afonso Henrique
+- David Pinto
+- Francisco Lima
+- Gabriel Li
+- Miguel Mendes
+- Rafael Figueiredo
+- Thibault Langlois
 
 ### UVa 166 Making Change
+- Thibault Langlois
+
+### UVa 146 ID codes
+- Rodrigo Cotrim
 
 ## Repositories of members:
 
