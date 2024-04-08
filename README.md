@@ -7,7 +7,7 @@ Each problem has a dedicated sub folder.
 
 ## Problems and solutions:
 
-### UVa 100
+### UVa 100 The 3n+1 problem
 - Afonso Henrique
 - David Pinto
 - Francisco Lima 
