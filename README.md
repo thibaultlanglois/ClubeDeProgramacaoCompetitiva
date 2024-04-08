@@ -5,6 +5,12 @@ In this repository some solutions of competitive programming problems can be fou
 
 Each problem has a dedicated sub folder.
 
+## Problems and solutions:
+
+### UVa 100
+
+### UVa 166 Making Change
+
 ## Repositories of members:
 
 to be completed.
