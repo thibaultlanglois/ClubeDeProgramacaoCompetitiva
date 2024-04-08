@@ -10,7 +10,7 @@ Each problem has a dedicated sub folder.
 ### UVa 100
 - Afonso Henrique
 - David Pinto
-- Francisco Lima
+- Francisco Lima 
 - Gabriel Li
 - Miguel Mendes
 - Rafael Figueiredo
@@ -24,6 +24,10 @@ Each problem has a dedicated sub folder.
 
 ### UVa 166 Making Change
 - Thibault Langlois
+
+### UVa10189 Minesweeper
+- Miguel Mendes
+- Rodrigo Frutuoso
 
 ## Repositories of members:
 
