@@ -39,7 +39,7 @@ Each problem has a dedicated sub folder.
 
 >>>  Se tiver um repositório com as suas soluções posso incluir um link aqui,
 
-- Francisco Lima: [https://github.com/fourglobe302500/solutions](github)
-- Miguel Mendes: [https://github.com/MiguelMendes2/OnlineJudge](github)
-- Rafael Figueiredo: [https://github.com/RafaelAlexandre06/Uva-problems](github)
+- Francisco Lima: [github](https://github.com/fourglobe302500/solutions)
+- Miguel Mendes: [github](https://github.com/MiguelMendes2/OnlineJudge)
+- Rafael Figueiredo: [github](https://github.com/RafaelAlexandre06/Uva-problems)
 
