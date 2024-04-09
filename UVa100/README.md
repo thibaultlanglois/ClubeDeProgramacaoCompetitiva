@@ -42,7 +42,7 @@ user	5m25.726s
 sys	0m0.180s
 ```
 
-## Afonso Henrique
+## Afonso Henrique + Márcio Milisse
 - Solution in C++
 - Does it pass on online judge ?
 

@@ -20,19 +20,26 @@ Each problem has a dedicated sub folder.
 - Rodrigo Cotrim
 
 ### UVa 507 Jill Rides Again
-- Rodrigo Frutuoso
+- Rafael Figueiredo
 
 ### UVa 166 Making Change
 - Thibault Langlois
+- Francisco Lima (Rust version)
+
+### UVa 410 Station Balance
+- Miguel Mendes
+- Francisco Lima
 
 ### UVa10189 Minesweeper
 - Miguel Mendes
 - Rodrigo Frutuoso
+- Francisco Lima (Rust version)
 
 ## Repositories of members:
 
 >>>  Se tiver um repositório com as suas soluções posso incluir um link aqui,
 
-
+- Francisco Lima: [https://github.com/fourglobe302500/solutions](github)
+- Miguel Mendes: [https://github.com/MiguelMendes2/OnlineJudge](github)
 
 

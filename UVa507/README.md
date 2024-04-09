@@ -1,3 +1,3 @@
 
 # UVa507 Jill Rides Again
-- Rodrigo Frutuoso : accepted solution !
+- Rafael Figueiredo : accepted solution !
