@@ -41,5 +41,5 @@ Each problem has a dedicated sub folder.
 
 - Francisco Lima: [https://github.com/fourglobe302500/solutions](github)
 - Miguel Mendes: [https://github.com/MiguelMendes2/OnlineJudge](github)
-
+- Rafael Figueiredo: [https://github.com/RafaelAlexandre06/Uva-problems](github)
 
