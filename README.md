@@ -22,6 +22,13 @@ Each problem has a dedicated sub folder.
 ### UVa 146 ID codes
 - Rodrigo Cotrim
 
+### UVa 231 Testing the catcher
+- Rodrigo Neves
+
+### UVa 151 Power Crisis
+- Rafael Figueiredo
+- André Gomes
+
 ### UVa 507 Jill Rides Again
 - Rafael Figueiredo
 - Tiago Leite
