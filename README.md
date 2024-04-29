@@ -48,6 +48,9 @@ Each problem has a dedicated sub folder.
 - Rodrigo Frutuoso
 - Francisco Lima (Rust version)
 
+### UVa 11920 Dominators
+- Thibault Langlois (time limit exceeded)
+
 ## Repositories of members:
 
 >>>  Se tiver um repositório com as suas soluções posso incluir um link aqui:
