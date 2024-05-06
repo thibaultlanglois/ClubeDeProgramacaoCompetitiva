@@ -7,7 +7,7 @@ Each problem has a dedicated sub folder.
 
 ## Problems and solutions:
 
-19 solutions for 6 problems and counting !
+26 solutions for 11 problems and counting !
 
 ### UVa 100 The 3n+1 problem
 - Afonso Henrique
@@ -67,3 +67,12 @@ Each problem has a dedicated sub folder.
 - Rafael Figueiredo: [github](https://github.com/RafaelAlexandre06/Uva-problems)
 - Rodrigo Neves: [github](https://github.com/nevesrodrigo2/UVA-OnlineJudge)
 - Tiago Leite: [github](https://github.com/leite-tiago/UVa-OnlineJudge)
+
+## Podium
+
+- Rodrigo Neves 4 Problems
+- Miguel Mendes 4 Problems
+- Francisco Lima 4 Problems
+- Rafael Figuereido 3 Problems
+- David Pinto 2 Problems
+
