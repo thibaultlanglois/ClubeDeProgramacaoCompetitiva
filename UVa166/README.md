@@ -3,3 +3,4 @@
 - Francisco Lima (Rust version)
 - Thibault Langlois (accepted solution)
 - Rodrigo Neves (accepted solution)
+- Miguel Mendes (accepted solution)

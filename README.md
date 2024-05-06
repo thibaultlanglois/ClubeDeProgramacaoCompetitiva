@@ -19,29 +19,36 @@ Each problem has a dedicated sub folder.
 - Thibault Langlois
 - Rodrigo Neves
 
+### UVa 111 History Grading
+- Rodrigo Neves
+
 ### UVa 146 ID codes
 - Rodrigo Cotrim
-
-### UVa 231 Testing the catcher
-- Rodrigo Neves
 
 ### UVa 151 Power Crisis
 - Rafael Figueiredo
 - André Gomes
 
-### UVa 507 Jill Rides Again
-- Rafael Figueiredo
-- Tiago Leite
+### UVa 231 Testing the catcher
+- Rodrigo Neves
 
 ### UVa 166 Making Change
 - Thibault Langlois
 - Francisco Lima (Rust version)
 - Rodrigo Neves
+- Miguel Mendes
+
+### UVa 299 Train Swapping
+- André Gomes
 
 ### UVa 410 Station Balance
 - Miguel Mendes
 - Francisco Lima
 - David Pinto
+
+### UVa 507 Jill Rides Again
+- Rafael Figueiredo
+- Tiago Leite
 
 ### UVa 10189 Minesweeper
 - Miguel Mendes
