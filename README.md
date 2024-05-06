@@ -7,7 +7,7 @@ Each problem has a dedicated sub folder.
 
 ## Problems and solutions:
 
-26 solutions for 11 problems and counting !
+28 solutions for 13 problems and counting !
 
 ### UVa 100 The 3n+1 problem
 - Afonso Henrique
@@ -55,8 +55,16 @@ Each problem has a dedicated sub folder.
 - Rodrigo Frutuoso
 - Francisco Lima (Rust version)
 
+### UVa 10928 My Dear Neighbours
+- David Pinto 
+
+### UVa 11292 Dragon of Loowater
+- David Pinto
+
+
 ### UVa 11920 Dominators
 - Thibault Langlois (time limit exceeded)
+
 
 ## Repositories of members:
 
@@ -73,6 +81,6 @@ Each problem has a dedicated sub folder.
 - Rodrigo Neves 4 Problems
 - Miguel Mendes 4 Problems
 - Francisco Lima 4 Problems
+- David Pinto 4 Problems
 - Rafael Figuereido 3 Problems
-- David Pinto 2 Problems
 
