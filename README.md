@@ -7,7 +7,7 @@ Each problem has a dedicated sub folder.
 
 ## Problems and solutions:
 
-28 solutions for 13 problems and counting !
+31 solutions for 16 problems and counting !
 
 ### UVa 100 The 3n+1 problem
 - Afonso Henrique
@@ -24,6 +24,9 @@ Each problem has a dedicated sub folder.
 
 ### UVa 146 ID codes
 - Rodrigo Cotrim
+
+### UVa 147 Dollars
+- Rodrigo Neves
 
 ### UVa 151 Power Crisis
 - Rafael Figueiredo
@@ -46,9 +49,15 @@ Each problem has a dedicated sub folder.
 - Francisco Lima
 - David Pinto
 
+### UVa 438 
+- Rodrigo Frutuoso
+
 ### UVa 507 Jill Rides Again
 - Rafael Figueiredo
 - Tiago Leite
+
+### UVa 591 Box Of Bricks
+- Rodrigo Frutuoso
 
 ### UVa 10189 Minesweeper
 - Miguel Mendes
@@ -78,9 +87,9 @@ Each problem has a dedicated sub folder.
 
 ## Podium
 
-- Rodrigo Neves 4 Problems
+- Rodrigo Neves 5 Problems
 - Miguel Mendes 4 Problems
 - Francisco Lima 4 Problems
 - David Pinto 4 Problems
 - Rafael Figuereido 3 Problems
-
+- Rodrigo Frutuoso 3 problems
