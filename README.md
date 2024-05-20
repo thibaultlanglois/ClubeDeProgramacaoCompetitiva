@@ -50,7 +50,7 @@ Each problem has a dedicated sub folder.
 - David Pinto
 
 ### UVa 438 
-- Rodrigo Frutuoso
+- Tiago Leite
 
 ### UVa 507 Jill Rides Again
 - Rafael Figueiredo
@@ -91,5 +91,7 @@ Each problem has a dedicated sub folder.
 - Miguel Mendes 4 Problems
 - Francisco Lima 4 Problems
 - David Pinto 4 Problems
-- Rafael Figuereido 3 Problems
-- Rodrigo Frutuoso 3 problems
+- Rafael Figueiredo 3 Problems
+- Rodrigo Frutuoso 2 Problems
+- Tiago Leite 2 Problems
+- André Gomes 2 Problems
