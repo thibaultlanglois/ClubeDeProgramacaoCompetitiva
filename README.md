@@ -7,7 +7,7 @@ Each problem has a dedicated sub folder.
 
 ## Problems and solutions:
 
-31 solutions for 16 problems and counting !
+34 solutions for 18 problems and counting !
 
 ### UVa 100 The 3n+1 problem
 - Afonso Henrique
@@ -18,6 +18,13 @@ Each problem has a dedicated sub folder.
 - Rafael Figueiredo
 - Thibault Langlois
 - Rodrigo Neves
+
+### UVa 101 
+- Thibault Langlois
+- André Gomes
+
+### UVa 106 Fermat vs. Pythagoras
+- André Gomes (Runtime error)
 
 ### UVa 111 History Grading
 - Rodrigo Neves
@@ -32,17 +39,20 @@ Each problem has a dedicated sub folder.
 - Rafael Figueiredo
 - André Gomes
 
-### UVa 231 Testing the catcher
-- Rodrigo Neves
-
 ### UVa 166 Making Change
 - Thibault Langlois
 - Francisco Lima (Rust version)
 - Rodrigo Neves
 - Miguel Mendes
 
+### UVa 231 Testing the catcher
+- Rodrigo Neves
+
 ### UVa 299 Train Swapping
 - André Gomes
+
+### UVa 344 Roman Digitis
+- Rodrigo Neves
 
 ### UVa 410 Station Balance
 - Miguel Mendes
@@ -59,6 +69,9 @@ Each problem has a dedicated sub folder.
 ### UVa 591 Box Of Bricks
 - Rodrigo Frutuoso
 
+### UVa 1016 Silly Sort
+- Rafael Figueiredo
+
 ### UVa 10189 Minesweeper
 - Miguel Mendes
 - Rodrigo Frutuoso
@@ -70,6 +83,8 @@ Each problem has a dedicated sub folder.
 ### UVa 11292 Dragon of Loowater
 - David Pinto
 
+### UVa 11559 Triangle and Polynomial
+- Rodrigo Frutuoso (Runtime error)
 
 ### UVa 11920 Dominators
 - Thibault Langlois (time limit exceeded)
@@ -87,11 +102,11 @@ Each problem has a dedicated sub folder.
 
 ## Podium
 
-- Rodrigo Neves 5 Problems
+- Rodrigo Neves 6 Problems
 - Miguel Mendes 4 Problems
 - Francisco Lima 4 Problems
 - David Pinto 4 Problems
-- Rafael Figueiredo 3 Problems
-- Rodrigo Frutuoso 2 Problems
+- Rafael Figueiredo 4 Problems
+- André Gomes 4 Problems
+- Rodrigo Frutuoso 2.5 Problems
 - Tiago Leite 2 Problems
-- André Gomes 2 Problems
