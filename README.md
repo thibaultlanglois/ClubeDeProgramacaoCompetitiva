@@ -83,8 +83,8 @@ Each problem has a dedicated sub folder.
 ### UVa 11292 Dragon of Loowater
 - David Pinto
 
-### UVa 11559 Triangle and Polynomial
-- Rodrigo Frutuoso (Runtime error)
+### UVa 11559 Event Planning
+- Rodrigo Frutuoso 
 
 ### UVa 11920 Dominators
 - Thibault Langlois (time limit exceeded)
@@ -108,5 +108,5 @@ Each problem has a dedicated sub folder.
 - David Pinto 4 Problems
 - Rafael Figueiredo 4 Problems
 - André Gomes 4 Problems
-- Rodrigo Frutuoso 2.5 Problems
+- Rodrigo Frutuoso 3 Problems
 - Tiago Leite 2 Problems

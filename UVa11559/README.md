@@ -1,4 +1,4 @@
-# UVa 11559 Triangle and Polyniomial
+# UVa 11559 Event Planning
 
 - Rodrigo Frutuoso
-Runtime error ?
+Accepted solution
