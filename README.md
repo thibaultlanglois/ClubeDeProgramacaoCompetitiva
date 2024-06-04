@@ -39,6 +39,9 @@ Each problem has a dedicated sub folder.
 - Rafael Figueiredo
 - André Gomes
 
+### UVa 156 Ananagrams
+- Tiago Leite
+
 ### UVa 166 Making Change
 - Thibault Langlois
 - Francisco Lima (Rust version)
@@ -47,6 +50,9 @@ Each problem has a dedicated sub folder.
 
 ### UVa 231 Testing the catcher
 - Rodrigo Neves
+
+### UVa 278 Chess
+- Tiago Leite
 
 ### UVa 299 Train Swapping
 - André Gomes
@@ -108,5 +114,5 @@ Each problem has a dedicated sub folder.
 - David Pinto 4 Problems
 - Rafael Figueiredo 4 Problems
 - André Gomes 4 Problems
+- Tiago Leite 4 Problems
 - Rodrigo Frutuoso 3 Problems
-- Tiago Leite 2 Problems
