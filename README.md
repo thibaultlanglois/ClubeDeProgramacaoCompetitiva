@@ -7,7 +7,7 @@ Each problem has a dedicated sub folder.
 
 ## Problems and solutions:
 
-34 solutions for 18 problems and counting !
+36 solutions for 20 problems and counting !
 
 ### UVa 100 The 3n+1 problem
 - Afonso Henrique
