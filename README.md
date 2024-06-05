@@ -7,7 +7,7 @@ Each problem has a dedicated sub folder.
 
 ## Problems and solutions:
 
-36 solutions for 20 problems and counting !
+37 solutions for 21 problems and counting !
 
 ### UVa 100 The 3n+1 problem
 - Afonso Henrique
@@ -65,12 +65,15 @@ Each problem has a dedicated sub folder.
 - Francisco Lima
 - David Pinto
 
-### UVa 438 
+### UVa 438 The Circumference of the Circle
 - Tiago Leite
 
 ### UVa 507 Jill Rides Again
 - Rafael Figueiredo
 - Tiago Leite
+
+### UVa 572 Oil Deposits
+- Rodrigo Frutuoso
 
 ### UVa 591 Box Of Bricks
 - Rodrigo Frutuoso
@@ -115,4 +118,4 @@ Each problem has a dedicated sub folder.
 - Rafael Figueiredo 4 Problems
 - André Gomes 4 Problems
 - Tiago Leite 4 Problems
-- Rodrigo Frutuoso 3 Problems
+- Rodrigo Frutuoso 4 Problems
