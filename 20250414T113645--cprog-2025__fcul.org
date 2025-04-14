@@ -1,0 +1,63 @@
+#+title:      cprog-2025
+#+date:       [2025-04-14 Mon 11:36]
+#+filetags:   :fcul:
+#+identifier: 20250414T113645
+
+* Alexandre Granjo
+LC 9 easy
+LC 3 medium
+
+
+* Dinis Fernandes
+LC 202
+LC 367
+
+* Pedro Mendes
+UVa 1146 time exceeded
+[[https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=246&page=show_problem&problem=3587]]
+
+* Rodrigo Lourenço
+LC 9
+LC 13
+UVa686
+
+* Pedro Dias
+UVa 673 80% wrong answer
+UVa 686 94% ok
+UVa 674 91% ok
+UVa 324 90% ok
+
+* Denis Dryagin
+UVa 686 já resolvido pelo Pedro Dias
+LC1 too easy !
+
+* Leonor Silva
+UVa 661 90% ok
+UV10070 time exceeded
+
+* João Azevedo
+UVa 100 (já resolvido !)
+UVa 603 
+
+* Diogo Saraiva
+UVa119 75% ok
+UVa750 73% ok
+UVa10371 83% ok
+UVa215 76% ok
+
+* João Pereira
+UVa 401 wrong answer
+
+* Rodrigo Martins
+UVa673 80% 20/03 ok !
+LC 7
+LC 23
+LC 19
+UVa1152 85% runtime error
+
+* Rodrigo Coelho
+UVa11340 85% ok
+UVa573 91% ok
+UVa12603 65% ok
+
+
