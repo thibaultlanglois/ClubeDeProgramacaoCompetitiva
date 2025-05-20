@@ -109,7 +109,7 @@ Each problem has a dedicated sub folder.
 - Rodrigo Neves: [github](https://github.com/nevesrodrigo2/UVA-OnlineJudge)
 - Tiago Leite: [github](https://github.com/leite-tiago/UVa-OnlineJudge)
 
-## Podium
+## Podium 2024
 
 - Rodrigo Neves 6 Problems
 - Miguel Mendes 4 Problems
@@ -119,3 +119,7 @@ Each problem has a dedicated sub folder.
 - André Gomes 4 Problems
 - Tiago Leite 4 Problems
 - Rodrigo Frutuoso 4 Problems
+
+## Podium 2025
+in construction ...
+see file 20250414T113645--cprog-2025__fcul.org
